@@ -1,5 +1,5 @@
 ## AJACS89
-# 統合データベース講習会：AJACS オンライン8
+# 統合データベース講習会：AJACS オンライン８
 
 ### 公式ウェブページ
 [統合データベース講習会：AJACS オンライン8](https://biosciencedbc.jp/event/ajacs/ajacs89.html)  
